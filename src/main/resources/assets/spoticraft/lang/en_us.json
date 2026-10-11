@@ -1,0 +1,9 @@
+{
+  "key.category.spoticraft.controls": "SpotiCraft",
+  "key.spoticraft.play_pause": "Play / Pause Spotify",
+  "key.spoticraft.next": "Next Spotify track",
+  "key.spoticraft.previous": "Previous Spotify track",
+  "key.spoticraft.connect": "Connect Spotify",
+  "key.spoticraft.toggle_widget": "Toggle music widget",
+  "key.spoticraft.open_options": "Open SpotiCraft options"
+}

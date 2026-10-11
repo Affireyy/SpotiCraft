@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "id": "spoticraft",
+  "version": "${version}",
+  "name": "SpotiCraft",
+	"icon": "assets/spoticraft/icon.png",
+  "description": "A customizable Spotify now-playing widget for the Minecraft HUD.",
+  "authors": ["SpotiCraft contributors"],
+  "license": "MIT",
+  "environment": "client",
+  "entrypoints": {
+    "client": ["dev.spoticraft.SpotiCraftClient"],
+    "modmenu": ["dev.spoticraft.config.SpotiCraftModMenu"]
+  },
+  "depends": {
+    "fabricloader": ">=0.19.5",
+    "minecraft": "~26.3",
+    "java": ">=25",
+    "fabric-api": "*",
+    "cloth-config": ">=26.3.159"
+  },
+  "suggests": {
+    "modmenu": ">=21.0.0"
+  }
+}
