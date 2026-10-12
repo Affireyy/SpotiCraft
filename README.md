@@ -23,7 +23,7 @@ The mod jar is created in `build/libs/`.
 4. Copy the app’s **client ID** into Mod Menu → SpotiCraft → Spotify. Don’t use a client secret; SpotiCraft uses PKCE and doesn’t need one.
 5. Join a world and press **U** to connect, then approve access in your browser.
 
-SpotiCraft stores access and refresh tokens in `.minecraft/config/spoticraft-tokens.json`. Keep that file private. Reading the current track uses `user-read-currently-playing`; playback controls use `user-modify-playback-state` and require Spotify Premium.
+SpotiCraft stores access and refresh tokens in `.minecraft/config/spoticraft-tokens.json`. Keep that file private. Playback controls require Spotify Premium.
 
 ## Controls
 
