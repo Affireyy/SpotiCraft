@@ -35,3 +35,13 @@ SpotiCraft stores access and refresh tokens in `.minecraft/config/spoticraft-tok
 | Connect Spotify | U |
 | Toggle widget | J |
 | Open SpotiCraft options | K |
+
+## Star History
+
+<a href="https://www.star-history.com/?repos=affireyy%2Fspoticraft&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=affireyy/spoticraft&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=affireyy/spoticraft&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=affireyy/spoticraft&type=date&legend=top-left" />
+ </picture>
+</a>
